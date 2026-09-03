@@ -1,7 +1,7 @@
 <h1 align="center">Backend First Principles</h1>
 
 <p align="center">
-  <strong>Understanding backend engineering from the fundamentals up.</strong>
+  <strong>Understanding backend engineering from the fundamentals.</strong>
 </p>
 
 <p align="center">
