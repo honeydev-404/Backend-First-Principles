@@ -24,13 +24,13 @@ Instead of only learning how to use frameworks and tools, the goal is to underst
 
 ### 🎯 What I'm Focusing On
 
-- 🌐 HTTP & Networking
-- 🗄️ Databases & Storage
-- 📦 Object Storage
-- ⚙️ Backend Architecture
-- 📈 Scalability & Performance
-- 🛡️ Reliability
-- 🧩 System Design Fundamentals
+- HTTP & Networking
+-  Databases & Storage
+- Object Storage
+-  Backend Architecture
+-  Scalability & Performance
+-  Reliability
+-  System Design Fundamentals
 
 ---
 
@@ -56,5 +56,5 @@ Trade-offs
 Real-world systems
 ```
 <h2 align="center">
-  Built with ❤️, curiosity, and a lot of debugging. 
+  Built with ❤️ by Honey.
 </h2>
