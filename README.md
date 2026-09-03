@@ -1,3 +1,7 @@
+<p align="center" >
+  <img width="200" height="200"  alt="image" src="https://github.com/user-attachments/assets/c1193fa7-4b6a-4880-9259-e65a9e20d5f3" />
+</p>
+
 <h1 align="center">Backend First Principles</h1>
 
 <p align="center">
