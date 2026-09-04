@@ -1,0 +1,7 @@
+
+First of all what is HTTP :-
+* HTTP is an application-layer protocol used for communication between clients and servers over a network.
+
+What is Client-Server model :-
+* Client is the one who orignates the request and asks for something from the server or database.
+* Server receives the client's request, processes it, and sends back a response.
