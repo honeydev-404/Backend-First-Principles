@@ -37,7 +37,7 @@ Instead of only learning how to use frameworks and tools, the goal is to underst
  ## 📚 Topics
 
 - [Why-First-Principles](./Why-First-Principles.md)
-
+- [Understanding HTTP](https://github.com/honeydev-404/Backend-first-principles/tree/main/Understanding%20HTTP%3A%20Where%20it%20all%20starts)
 ---
 
 ## 🧠 My Learning Approach
