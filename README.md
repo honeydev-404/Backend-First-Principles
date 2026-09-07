@@ -20,7 +20,7 @@
 
 This repository contains my notes and learning journey while studying **Backend Development from First Principles**.
 
-Instead of only learning how to use frameworks and tools, the goal is to understand **what happens underneath the abstractions** and I will try to post everyday.
+Instead of only learning how to use frameworks and tools, the goal is to understand **what happens underneath the abstractions** and I will try to post everyday and it will be short so anyone can get basic idea in less time and it will also help to navigate fast rather than reading full paragraphs to understand.
 
 ### 🎯 What I'm Focusing On
 
