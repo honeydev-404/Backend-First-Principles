@@ -61,9 +61,6 @@ Real-world systems
   You can also visit my
   <a href="https://medium.com/@honeybhardwaj.dev">Medium</a>
   for more
-  
+
   Built with ❤️ by Honey.
-</h2>
-<h2 align="center">
-  
 </h2>
