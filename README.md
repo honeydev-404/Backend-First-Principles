@@ -38,8 +38,9 @@ I will keep Updating the notes as I get new information and learn something new.
 
  ## 📚 Topics
 
-- [Why-First-Principles](./Why-First-Principles.md)
-- [Understanding HTTP](https://github.com/honeydev-404/Backend-first-principles/tree/main/Understanding%20HTTP%3A%20Where%20it%20all%20starts)
+- [1. Why-First-Principles](./Why-First-Principles.md)
+- [2. Understanding HTTP](https://github.com/honeydev-404/Backend-first-principles/tree/main/Understanding%20HTTP%3A%20Where%20it%20all%20starts)
+- [3. Understanding Routing](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Understanding%20Routing%3A%20What%20happens%20where)
 ---
 
 ## 🧠 My Learning Approach
