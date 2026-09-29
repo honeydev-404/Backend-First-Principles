@@ -12,3 +12,12 @@ Deserialisation :-
 Complete Flow of Serialisation -> Deserialisation Process :-
  	Client -> Data -> Serialise -> Server -> Deserialise -> The DATA is now understood by the system -> Response.
 
+Serialisation Formats :-
+	Text-Based Formats -> 
+1. JSON
+2. YAML
+3. XML
+
+	Binary Format ->
+1. Protocol Buffers.
+
