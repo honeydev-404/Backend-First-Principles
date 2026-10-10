@@ -43,6 +43,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [3. Understanding Routing](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Understanding%20Routing%3A%20What%20happens%20where)
 - [4. Serialisation and Deserialisation](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Serialisation%20and%20Deserialisation%3A%20How%20machine%20communicates%20in%20different%20languages.)
 - [5. Authentication and Authorization for Backend Engineers](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Authentication%20and%20Authorization%20for%20Backend%20Engineers)
+- [6. Validation and Transformation for Backend Engineers](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Validation%20and%20Transformation%20for%20Backend%20Engineers)
 ---
 
 ## 🧠 My Learning Approach
