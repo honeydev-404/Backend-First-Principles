@@ -44,6 +44,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [4. Serialisation and Deserialisation](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Serialisation%20and%20Deserialisation%3A%20How%20machine%20communicates%20in%20different%20languages.)
 - [5. Authentication and Authorization for Backend Engineers](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Authentication%20and%20Authorization%20for%20Backend%20Engineers)
 - [6. Validation and Transformation for Backend Engineers](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Validation%20and%20Transformation%20for%20Backend%20Engineers)
+- [7. What are controllers, services, repositories, middlewares and request context](https://github.com/honeydev-404/Backend-First-Principles/tree/main/What%20are%20controllers%2C%20services%2C%20repositories%2C%20middlewares%20and%20request%20context%3F)
 ---
 
 ## 🧠 My Learning Approach
