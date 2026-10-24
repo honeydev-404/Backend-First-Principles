@@ -46,6 +46,8 @@ I will keep Updating the notes as I get new information and learn something new.
 - [6. Validation and Transformation for Backend Engineers...](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Validation%20and%20Transformation%20for%20Backend%20Engineers)
 - [7. What are controllers, services, repositories, middlewares and request context...](https://github.com/honeydev-404/Backend-First-Principles/tree/main/What%20are%20controllers%2C%20services%2C%20repositories%2C%20middlewares%20and%20request%20context%3F)
 - [8. Complete REST API Design...](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Complete%20REST%20API%20Design.)
+- [9. Mastering the Database with Postgres.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Mastering%20the%20Database%20with%20Postgres.)
+- [10. Caching: The Secret Behind It All.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Caching%3A%20The%20Secret%20Behind%20It%20All.)
 ---
 
 ## 🧠 My Learning Approach
