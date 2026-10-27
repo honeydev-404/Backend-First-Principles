@@ -48,6 +48,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [8. Complete REST API Design...](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Complete%20REST%20API%20Design.)
 - [9. Mastering the Database with Postgres.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Mastering%20the%20Database%20with%20Postgres.)
 - [10. Caching: The Secret Behind It All.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Caching%3A%20The%20Secret%20Behind%20It%20All.)
+- [11. Task Queues and Background Jobs.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Task%20Queues%20and%20Background%20Jobs.)
 ---
 
 ## 🧠 My Learning Approach
