@@ -50,6 +50,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [10. Caching: The Secret Behind It All.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Caching%3A%20The%20Secret%20Behind%20It%20All.)
 - [11. Task Queues and Background Jobs.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Task%20Queues%20and%20Background%20Jobs.)
 - [12. Full Text Search using Elasticsearch for Blazingly Fast Search.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Full%20Text%20Search%20using%20Elasticsearch%20for%20Blazingly%20Fast%20Search)
+- [13. Error Handling and Building Fault Tolerant Systems.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Error%20Handling%20and%20Building%20Fault%20Tolerant%20Systems.)
 ---
 
 ## 🧠 My Learning Approach
