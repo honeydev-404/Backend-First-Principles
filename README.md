@@ -53,6 +53,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [13. Error Handling and Building Fault Tolerant Systems.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Error%20Handling%20and%20Building%20Fault%20Tolerant%20Systems.)
 - [14. Production-grade Configuration Management.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Production-grade%20Configuration%20Management.)
 - [15. Logging, Monitoring and Observability.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Logging%2C%20Monitoring%20and%20Observability.)
+- [16. Graceful Shutdown.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Graceful%20Shutdown.)
 ---
 
 ## 🧠 My Learning Approach
