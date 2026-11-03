@@ -55,6 +55,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [15. Logging, Monitoring and Observability.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Logging%2C%20Monitoring%20and%20Observability.)
 - [16. Graceful Shutdown.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Graceful%20Shutdown.)
 - [17. Backend Security: Everything You Need to Know.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Backend%20Security%3A%20Everything%20You%20Need%20to%20Know.)
+- [18. Backend Scaling and Performance Engineering: Part-1.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Backend%20Scaling%20and%20Performance%20Engineering%3A%20Part-1.)
 ---
 
 ## 🧠 My Learning Approach
