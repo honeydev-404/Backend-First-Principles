@@ -54,6 +54,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [14. Production-grade Configuration Management.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Production-grade%20Configuration%20Management.)
 - [15. Logging, Monitoring and Observability.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Logging%2C%20Monitoring%20and%20Observability.)
 - [16. Graceful Shutdown.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Graceful%20Shutdown.)
+- [17. Backend Security: Everything You Need to Know.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Backend%20Security%3A%20Everything%20You%20Need%20to%20Know.)
 ---
 
 ## 🧠 My Learning Approach
