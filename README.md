@@ -58,6 +58,8 @@ I will keep Updating the notes as I get new information and learn something new.
 - [18. Backend Scaling and Performance Engineering: Part-1.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Backend%20Scaling%20and%20Performance%20Engineering%3A%20Part-1.)
 - [19. Backend Scaling and Performance Engineering: Part-2.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Backend%20Scaling%20and%20Performance%20Engineering%3A%20Part-2.)
 - [20. Concurrency & Parallelism: IO Bound vs CPU Bound.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Concurrency%20%26%20Parallelism%3A%20IO%20Bound%20vs%20CPU%20Bound.)
+- [21. Object Storage - Everything You Need to Know: Part 1.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Object%20Storage%20-%20Everything%20You%20Need%20to%20Know%3A%20Part%20-1.)
+- [22. Object Storage - Everything You Need to Know: Part 2](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Object%20Storage%20-%20Everything%20You%20Need%20to%20Know%3A%20Part%202)
 ---
 
 ## 🧠 My Learning Approach
