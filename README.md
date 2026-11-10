@@ -60,6 +60,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [20. Concurrency & Parallelism: IO Bound vs CPU Bound.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Concurrency%20%26%20Parallelism%3A%20IO%20Bound%20vs%20CPU%20Bound.)
 - [21. Object Storage - Everything You Need to Know: Part 1.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Object%20Storage%20-%20Everything%20You%20Need%20to%20Know%3A%20Part%20-1.)
 - [22. Object Storage - Everything You Need to Know: Part 2](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Object%20Storage%20-%20Everything%20You%20Need%20to%20Know%3A%20Part%202)
+- [23. Realtime Systems & WebSockets - The Complete Deep Dive.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Realtime%20Systems%20%26%20WebSockets%20-%20The%20Complete%20Deep%20Dive.)
 ---
 
 ## 🧠 My Learning Approach
