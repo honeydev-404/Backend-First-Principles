@@ -63,6 +63,7 @@ I will keep Updating the notes as I get new information and learn something new.
 - [23. Realtime Systems & WebSockets - The Complete Deep Dive.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Realtime%20Systems%20%26%20WebSockets%20-%20The%20Complete%20Deep%20Dive.)
 - [24. Full-Text Search & Elasticsearch: Complete Notes.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/%20Full-Text%20Search%20%26%20Elasticsearch%3A%20Complete%20Notes)
 - [25. Testing for Backend Engineers: mocks, TDD and coverage.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/Testing%20for%20Backend%20Engineers%3A%20mocks%2C%20TDD%20and%20coverage.)
+- [26. OpenAPI: The universal contract between clients and servers.](https://github.com/honeydev-404/Backend-First-Principles/tree/main/OpenAPI%3A%20The%20universal%20contract%20between%20clients%20and%20servers.)
 ---
 
 ## 🧠 My Learning Approach
